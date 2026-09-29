@@ -34,66 +34,48 @@ Busco uma oportunidade de estágio em que possa aprender com uma equipe de desen
 
 
 
-- **Backend:** C#, .NET, ASP.NET Core, APIs REST, Entity Framework Core
-- 
-- **Banco de dados:** SQL, PostgreSQL, MySQL, SQLite
-- 
-- **Frontend:** JavaScript, React, HTML e CSS
-- 
-- **Outras linguagens:** Java e Python
-- 
-- **Ferramentas:** Git, GitHub, Visual Studio e VS Code
-- 
+**Backend:** C#, .NET, ASP.NET Core, APIs REST, Entity Framework Core<br>
+
+**Banco de dados:** SQL, PostgreSQL, MySQL, SQLite<br>
+
+**Frontend:** JavaScript, React, HTML e CSS<br>
+
+**Outras linguagens:** Java e Python<br>
+
+**Ferramentas:** Git, GitHub, Visual Studio e VS Code
+
 
 
 ## Projetos em destaque
 
 
 
-- [**ImóbLocal**](https://github.com/uliguimaraes/imoblocal) — decisão arquitetural para CRM e gestão de imóveis, baseada em um problema real do setor imobiliário.
-- 
-- [**API de Filmes**](https://github.com/uliguimaraes/api-filmes-minimal-api) — API REST em C#/.NET com CRUD, Entity Framework Core, SQLite e Swagger.
-- 
-- [**API com JWT**](https://github.com/uliguimaraes/api-jwt-aspnet-core) — autenticação, autorização por role e rotas públicas e protegidas em ASP.NET Core.
-- 
-- [**Sistema Imobiliário**](https://github.com/uliguimaraes/Sistema-Imobiliario-CSharp) — modelagem de domínio, orientação a objetos e regras de negócio com LINQ.
-- 
-- [**CRUD de Clientes em Java**](https://github.com/uliguimaraes/crud-clientes-java) — aplicação de console com POO, ArrayList e relacionamento entre classes.
-- 
+**[ImóbLocal](https://github.com/uliguimaraes/imoblocal)** — decisão arquitetural para CRM e gestão de imóveis, baseada em um problema real do setor imobiliário.<br><br>
+
+**[API de Filmes](https://github.com/uliguimaraes/api-filmes-minimal-api)** — API REST em C#/.NET com CRUD, Entity Framework Core, SQLite e Swagger.<br><br>
+
+**[API com JWT](https://github.com/uliguimaraes/api-jwt-aspnet-core)** — autenticação, autorização por role e rotas públicas e protegidas em ASP.NET Core.<br><br>
+
+**[Sistema Imobiliário](https://github.com/uliguimaraes/Sistema-Imobiliario-CSharp)** — modelagem de domínio, orientação a objetos e regras de negócio com LINQ.<br><br>
+
+**[CRUD de Clientes em Java](https://github.com/uliguimaraes/crud-clientes-java)** — aplicação de console com POO, ArrayList e relacionamento entre classes.
+
 
 
 ## Atualmente
 
 
 
-- Estudando desenvolvimento backend e arquitetura de software;
-- 
-- Melhorando documentação, testes e organização dos projetos;
-- 
-- Buscando estágio em desenvolvimento de software, especialmente backend .NET.
-- 
+Estudando desenvolvimento backend e arquitetura de software.<br>
+
+Melhorando documentação, testes e organização dos projetos.<br>
+
+Buscando estágio em desenvolvimento de software, especialmente backend .NET.
+
 
 
 ## Contato
 
 
 
-- [LinkedIn](https://www.linkedin.com/in/ulisses-guimaraes-/)
-- 
-- [GitHub](https://github.com/uliguimaraes)
-- 
-- E-mail: ulisses.guimaraes@rede.ulbra.br
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[LinkedIn](https://www.linkedin.com/in/ulisses-guimaraes-/) · [GitHub](https://github.com/uliguimaraes) · ulisses.guimaraes@rede.ulbra.br

@@ -1,114 +1,99 @@
-# 🏴‍☠️ Monkey D. Ulisses
+<div align="center">
 
-<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%">
 
----
 
-# ⚔️ Sobre Mim
+# Ulisses Guimarães
 
-☠️ Desenvolvedor apaixonado por tecnologia  
-💻 Focado em Backend, Frontend e UI/UX  
-🚀 Estudando constantemente novas tecnologias  
-🏴‍☠️ Em busca do One Piece da programação  
 
----
 
-# 🌊 Tecnologias da Tripulação
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=650&lines=Estudante+de+ADS;Desenvolvedor+backend+em+forma%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+APIs+REST+%7C+SQL" alt="Apresentação animada" />
 
-<div style="display: inline_block"><br>
 
-<img align="center" alt="Java" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="Python" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<img align="center" alt="Git" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="MySQL" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="HTML" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="JavaScript" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-
-<img align="center" alt="Figma" height="60" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 
 </div>
 
----
 
-# 🎨 UI/UX Design
 
-✨ Experiência com:
+## Sobre mim
 
-- Wireframes
-- Prototipação
-- Design Mobile
-- Design acessível
-- UX Research
-- Interfaces modernas
-- Figma
 
----
 
-# ☠️ Recompensa Atual
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na ULBRA e estou em transição planejada para a área de desenvolvimento de software, com foco em backend.
 
-```txt
-฿ 500.000.000
-```
 
----
 
-# 📊 Estatísticas do Capitão
+Tenho desenvolvido projetos acadêmicos e de portfólio com **C#, .NET, ASP.NET Core, APIs REST, Entity Framework Core, SQL, Java, Python e React**. Também tenho mais de 20 anos de experiência profissional em gestão, processos, atendimento e visão de negócio.
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
 
----
+Busco uma oportunidade de estágio em que possa aprender com uma equipe de desenvolvimento, contribuir com responsabilidade e evoluir tecnicamente.
 
-# 🐍 Snake Contributions
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
+## Principais tecnologias
 
-# 🚀 Projetos em Destaque
 
-🌟 CRUD de Clientes em Java  
-🌟 Interfaces UI/UX no Figma  
-🌟 Projetos Web com HTML/CSS/JavaScript  
-🌟 Automações com Python  
-🌟 Banco de Dados MySQL  
 
----
+- **Backend:** C#, .NET, ASP.NET Core, APIs REST, Entity Framework Core
+- 
+- **Banco de dados:** SQL, PostgreSQL, MySQL, SQLite
+- 
+- **Frontend:** JavaScript, React, HTML e CSS
+- 
+- **Outras linguagens:** Java e Python
+- 
+- **Ferramentas:** Git, GitHub, Visual Studio e VS Code
+- 
 
-# ⚓ Frase do Capitão
 
-> "The One Piece is real!" ☠️
+## Projetos em destaque
 
----
 
-# 🌎 Onde me encontrar
 
-<div>
+- [**ImóbLocal**](https://github.com/uliguimaraes/imoblocal) — decisão arquitetural para CRM e gestão de imóveis, baseada em um problema real do setor imobiliário.
+- 
+- [**API de Filmes**](https://github.com/uliguimaraes/api-filmes-minimal-api) — API REST em C#/.NET com CRUD, Entity Framework Core, SQLite e Swagger.
+- 
+- [**API com JWT**](https://github.com/uliguimaraes/api-jwt-aspnet-core) — autenticação, autorização por role e rotas públicas e protegidas em ASP.NET Core.
+- 
+- [**Sistema Imobiliário**](https://github.com/uliguimaraes/Sistema-Imobiliario-CSharp) — modelagem de domínio, orientação a objetos e regras de negócio com LINQ.
+- 
+- [**CRUD de Clientes em Java**](https://github.com/uliguimaraes/crud-clientes-java) — aplicação de console com POO, ArrayList e relacionamento entre classes.
+- 
 
-<a href="https://github.com/SEUUSUARIO" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
 
-</div>
+## Atualmente
 
----
 
-<img src="https://media.giphy.com/media/13SYnseWRwRSc8/giphy.gif" width="100%">
+
+- Estudando desenvolvimento backend e arquitetura de software;
+- 
+- Melhorando documentação, testes e organização dos projetos;
+- 
+- Buscando estágio em desenvolvimento de software, especialmente backend .NET.
+- 
+
+
+## Contato
+
+
+
+- [LinkedIn](https://www.linkedin.com/in/ulisses-guimaraes-/)
+- 
+- [GitHub](https://github.com/uliguimaraes)
+- 
+- E-mail: ulisses.guimaraes@rede.ulbra.br
+
+
+
+
+
+
+
+
+
+
+
+
+
+
